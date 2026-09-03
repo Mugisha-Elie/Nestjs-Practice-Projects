@@ -1,0 +1,27 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/npm_and_yarn/e-commerce/fast-uri-3.1.7",
+    "dependabot/npm_and_yarn/e-commerce/qs-6.16.0",
+    "dependabot/npm_and_yarn/system-logger/fast-uri-3.1.7",
+    "dependabot/npm_and_yarn/task-tracker/fast-uri-3.1.7",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/npm_and_yarn/e-commerce/fast-uri-3.1.7": "main",
+    "dependabot/npm_and_yarn/e-commerce/qs-6.16.0": "main",
+    "dependabot/npm_and_yarn/system-logger/fast-uri-3.1.7": "main",
+    "dependabot/npm_and_yarn/task-tracker/fast-uri-3.1.7": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/npm_and_yarn/e-commerce/fast-uri-3.1.7",
+    "dependabot/npm_and_yarn/e-commerce/qs-6.16.0",
+    "dependabot/npm_and_yarn/system-logger/fast-uri-3.1.7",
+    "dependabot/npm_and_yarn/task-tracker/fast-uri-3.1.7",
+    "origin"
+  ]
+}
